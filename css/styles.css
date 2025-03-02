@@ -114,6 +114,7 @@ footer .social-links a {
 footer .copyright {
     margin-top: 10px;
     font-size: 14px;
+    color: white !important;
 }
 /* Share Button Styles */
 .share-button {

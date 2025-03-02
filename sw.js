@@ -1,11 +1,11 @@
-const CACHE_NAME = 'ramadan-timetable-v1';
+const CACHE_NAME = 'ramadan-timetable-v2';
 const ASSETS = [
   '/',
   '/index.html',
-  '/styles.css',
-  '/hc-logo.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
+  '/css/styles.css',
+  '/assets/cornq-logo.png',
+  '/assets/icons/icon-192x192.png',
+  '/assets/icons/icon-512x512.png',
   '/api.php', // Cache the API endpoint
   '/ramadan.json' // Cache the JSON file
 ];
